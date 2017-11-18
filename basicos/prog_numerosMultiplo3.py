@@ -14,4 +14,3 @@ def validarNumeros(numero):
   validarRango(numero)
   validarMultiplo3(numero)
       
-validarNumeros(123) 
